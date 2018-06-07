@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b1e4ddfc22ac74893d0f814dd7ae34, type: 3}
+  m_Name: Divine Punishment L1
+  m_EditorClassIdentifier: 
+  energyCost: 50
+  abilityAnimation: {fileID: 7400000, guid: dafa7e8bcf1bfa24a8c53ec17164800e, type: 3}
+  particlePrefab: {fileID: 1666287810016298, guid: f9c52b09c47218642ba35918d1750d70,
+    type: 2}
+  audioClip: {fileID: 8300000, guid: c660a164af46a96438478623ef8014d3, type: 3}
+  radius: 10
+  damageToEachTarget: 50

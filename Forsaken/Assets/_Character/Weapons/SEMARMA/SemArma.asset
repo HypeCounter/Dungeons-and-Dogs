@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69c4f247b09eb3545bdbf9795ac31cf3, type: 3}
+  m_Name: SemArma
+  m_EditorClassIdentifier: 
+  gripTransform: {fileID: 4102608335344926, guid: f05bc59210f4ddb448f0b22000563e8d,
+    type: 2}
+  weaponPrefab: {fileID: 1887380806182690, guid: febc72222b29ca84cb895c50ed5e8cc4,
+    type: 2}
+  attackAnimation: {fileID: 7400000, guid: ce17781955d25c647922801319f24e9e, type: 3}
+  idleWeapon: {fileID: 7400002, guid: ffaf641b210f5ea41952cf36f1379d66, type: 3}
+  deathAnimation: {fileID: 7400000, guid: 589a11892e95f834dbf23f9e1cc1f090, type: 3}
+  minTimeBetweenHits: 5
+  maxAttackRange: 0
+  weaponDamage: 0
+  damageDelay: 5

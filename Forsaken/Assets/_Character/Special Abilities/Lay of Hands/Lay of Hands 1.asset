@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c841d2116b7e67408b08a212cd8d6e1, type: 3}
+  m_Name: Lay of Hands 1
+  m_EditorClassIdentifier: 
+  energyCost: 20
+  abilityAnimation: {fileID: 7400000, guid: fd2eda3550a6f1344866db46a225eea7, type: 3}
+  particlePrefab: {fileID: 100006, guid: 20f7b5d5e2680594f8edca6b6c2d5b3c, type: 2}
+  audioClip: {fileID: 8300000, guid: 2ebac370b390b7048a0806da3d3c9348, type: 3}
+  extraHealth: 20
